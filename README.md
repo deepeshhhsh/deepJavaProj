@@ -1,6 +1,6 @@
 # javaProject
 VITYarthi Project Sem 3 2025-26
-## Omkar Sahay (24BCE10843)
+## Deepesh Chauhan (24BCE11121)
 
 # Campus Course& Records Manager(CCRM)
 
@@ -123,6 +123,5 @@ had some trouble with the file I/O operations initially but managed to get it wo
 
 ---
 
-Omkar Sahay
-24BCE10843
+Deepesh Chauhan (24BCE11121)
 *be hungry be foolish*
